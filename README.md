@@ -64,7 +64,7 @@ Em seguida, conecte o recurso de serviços de IA do Azure provisionado acima ao 
 
 **Outps das imagens:**
 
-![Captura de Tela (171)](https://github.com/WaldeniseMoraes/Laboratorio-5-Explorando-Recursos-IA-Generativa-Copilot-/assets/161647255/82b5b5d7-338f-459c-a067-20120a90d49a)
+![Captura de Tela (173)](https://github.com/WaldeniseMoraes/Laboratorio-5-Explorando-Recursos-IA-Generativa-Copilot-/assets/161647255/3c40a790-d23f-4426-8daf-8ffb2864847b)
 
 ![Captura de Tela (172)](https://github.com/WaldeniseMoraes/Laboratorio-5-Explorando-Recursos-IA-Generativa-Copilot-/assets/161647255/ee709eea-ce79-4715-b759-e422c665499a)
 
